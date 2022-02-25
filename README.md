@@ -4,7 +4,7 @@
 ```
 cargo run
 ```
-でfonts.rsがassetsディレクトリ内に生成されます
+でfont.rsがassetsディレクトリ内に生成されます
 
 ```
 char 0x00
